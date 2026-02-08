@@ -26,7 +26,7 @@ jobs:
           pip install requests beautifulsoup4 pandas
 
       - name: Run scraper
-        run: python your_script_name.py
+        run: python extract_station.py
 
       - name: Commit and Push results
         run: |
