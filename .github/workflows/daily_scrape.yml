@@ -34,6 +34,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Auto-update weather results [$(date)]" || exit 0
+          git add .  # This adds the new 'extract' folder and the new file
+          git commit -m "Update results for $(date)" || exit 0
           git push
