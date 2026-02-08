@@ -1,0 +1,37 @@
+name: Daily Weather Scraper
+
+on:
+  schedule:
+    # This runs at 21:55 UTC (23:55 Greek Winter Time)
+    - cron: '55 21 * * *'
+  workflow_dispatch: # This adds a "Run" button so you can test it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Allows the action to save the results.txt back to your repo
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 pandas
+
+      - name: Run scraper
+        run: python your_script_name.py
+
+      - name: Commit and Push results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Auto-update weather results [$(date)]" || exit 0
+          git push
