@@ -12,18 +12,25 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 
-folder_path = "extract"
+# 1. Get the absolute directory where extract_station.py is located
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
+# 2. Join it with the "extract" folder name
+folder_path = os.path.join(script_dir, "extract")
+
+# 3. Create the folder (now using the full, absolute path)
+os.makedirs(folder_path, exist_ok=True)
+
+# 4. Setup the file path
 current_date = datetime.now().strftime("%Y-%m-%d")
 file_name = f"results_{current_date}.txt"
 full_path = os.path.join(folder_path, file_name)
 
-# 2. CRITICAL FIX: Create the folder if it's missing
-# 'exist_ok=True' prevents an error if the folder already exists
-os.makedirs(folder_path, exist_ok=True)
-
-# 3. Now you can safely open the file
+# 5. Open and write
 with open(full_path, "a", encoding="utf-8") as f:
     f.write(f"\nWeather data extracted at {datetime.now().strftime('%H:%M:%S')}\n")
+
+print(f"File saved to: {full_path}")
 
 print(f"File saved to: {full_path}")
 # --- Configuration ---
