@@ -12,12 +12,25 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 
-current_date = datetime.now().strftime("%Y-%m-%d")
-file_name = f"results_{current_date}.txt"
+# 1. Get the current date and time
+now = datetime.now()
+current_date = now.strftime("%Y-%m-%d")
+current_time = now.strftime("%H:%M:%S")
+
+# 2. Use a relative folder path for GitHub Actions
 folder_path = "extract"
+
+# 3. Create the folder if it doesn't exist (CRITICAL for GitHub Actions)
+if not os.path.exists(folder_path):
+    os.makedirs(folder_path)
+
+# 4. Construct the full path
+file_name = f"results_{current_date}.txt"
 full_path = os.path.join(folder_path, file_name)
-with open(full_path, "a") as f:
-    f.write(f"\nWeather data extracted at {datetime.now().strftime('%H:%M:%S')}\n")
+
+# 5. Open and write (append mode)
+with open(full_path, "a", encoding="utf-8") as f:
+    f.write(f"\nWeather data extracted at {current_time}\n")
 
 print(f"File saved to: {full_path}")
 # --- Configuration ---
