@@ -23,7 +23,9 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 pandas
+          python -m pip install --upgrade pip
+          pip install selenium webdriver-manager pandas requests beautifulsoup4
+          # OR use pip install -r requirements.txt if the file is in the root folder
 
       - name: Run scraper
         run: python extract_station.py
