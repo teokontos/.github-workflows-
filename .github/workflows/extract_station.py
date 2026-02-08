@@ -11,22 +11,29 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
+from pathlib import Path
+from datetime import datetime
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
 
-# 1. Get the absolute directory where extract_station.py is located
-script_dir = os.path.dirname(os.path.abspath(__file__))
+service = Service(ChromeDriverManager().install())
+driver = webdriver.Chrome(service=service, options=options)
+options = webdriver.ChromeOptions()
+options.add_argument("--headless=new")
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
+options.add_argument("--window-size=1920,1080")
+options.add_argument(
+    "user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome Safari/537.36"
+)
+BASE_DIR = Path(__file__).resolve().parent.parent
+OUTPUT_DIR = BASE_DIR / "data" / "extract"
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-# 2. Join it with the "extract" folder name
-folder_path = os.path.join(script_dir, "extract")
-
-# 3. Create the folder (now using the full, absolute path)
-os.makedirs(folder_path, exist_ok=True)
-
-# 4. Setup the file path
 current_date = datetime.now().strftime("%Y-%m-%d")
 file_name = f"results_{current_date}.txt"
-full_path = os.path.join(folder_path, file_name)
+full_path = OUTPUT_DIR / file_name
 
-# 5. Open and write
 with open(full_path, "a", encoding="utf-8") as f:
     f.write(f"\nWeather data extracted at {datetime.now().strftime('%H:%M:%S')}\n")
 
