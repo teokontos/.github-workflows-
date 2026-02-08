@@ -14,7 +14,7 @@ from selenium.common.exceptions import TimeoutException
 
 current_date = datetime.now().strftime("%Y-%m-%d")
 file_name = f"results_{current_date}.txt"
-folder_path = r"C:\Users\THEO\Documents\THEO\Python\plot\weather_plots\extract"
+folder_path = "extract"
 full_path = os.path.join(folder_path, file_name)
 with open(full_path, "a") as f:
     f.write(f"\nWeather data extracted at {datetime.now().strftime('%H:%M:%S')}\n")
@@ -472,4 +472,5 @@ if rows:
     print("Data saved successfully.")
 else:
     print("No data was collected.")
+
 
