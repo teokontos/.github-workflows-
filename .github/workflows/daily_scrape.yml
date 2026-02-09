@@ -31,6 +31,6 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add data/extract/
+          git add -A
           git commit -m "Daily weather update $(date -u +'%Y-%m-%d')" || echo "No changes"
           git push
