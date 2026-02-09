@@ -1,0 +1,76 @@
+
+Weather data extracted at 10:55:00
+Scraping stations, please wait...
+=====================================================================================
+STATION NAME         | ID         | HIGH    | LOW     | RAIN    | GUST   -------------------------------------------------------------------------------------
+Arillas              | IKERKIRA2  |  14.2 °C |  10.0 °C |  20.8 mm |  14.2 km/h
+Avliotes             | IAVLIO1    |           Incomplete Data          
+Acharavi             | IPERIT4    |               Offline              
+Gialos Karousadon    | IKAROU2    |  14.6 °C |   9.1 °C |  10.9 mm |  28.5 km/h
+Loutses1             | ILOUTS1    |  11.9 °C |   7.6 °C |  20.3 mm |  21.9 km/h
+Loutses Anapaftiria  | ILOUTS2    |  11.7 °C |   7.8 °C |  20.6 mm |  25.6 km/h
+Kassiopi             | IKASSI2    |  14.2 °C |   8.8 °C |  15.7 mm |  14.8 km/h
+Sinies Porta         | ISINIE3    |   9.8 °C |   5.8 °C |  18.0 mm |  37.3 km/h
+Old Sinies           | INISSA6    |  11.0 °C |   6.9 °C |  17.5 mm |  20.4 km/h
+Ropa                 | IYANNA5    |  13.6 °C |   8.1 °C |   6.6 mm |  29.5 km/h
+Laiki Agora          | ICORFU22   |  15.1 °C |  10.5 °C |   5.8 mm |  25.4 km/h
+Kentro Kofineta      | ICORFU20   |           Incomplete Data          
+1st Epal             | ICORFU9    |  14.1 °C |  10.7 °C |   8.6 mm |  29.0 km/h
+Garitsa              | ICORFU24   |  15.3 °C |  10.1 °C |   5.3 mm |   0.0 km/h
+Kobitsi              | IKOBIT2    |  14.2 °C |   8.8 °C |  11.4 mm |  27.7 km/h
+Perama               | IGASTO3    |  14.4 °C |  10.1 °C |   4.6 mm |  10.3 km/h
+Kothoniki            | IKALAF4    |  15.6 °C |   9.4 °C |   0.0 mm |  22.7 km/h
+Agios Georgios Argyr | ICORFU8    |               Offline              
+Chlomos              | ICHLOM1    |  12.5 °C |   8.7 °C |   5.1 mm |  23.8 km/h
+Perivoli             | IARGYR6    |  14.7 °C |   9.0 °C |   7.1 mm |  25.6 km/h
+Sagiada              | ISAYAD1    |  16.2 °C |   9.7 °C |   3.6 mm |  26.6 km/h
+Igoumenitsa          | IIGOUM1    |  16.0 °C |  10.1 °C |   3.8 mm |  16.4 km/h
+Filothei Thesprot    | IU0389U02  |  13.8 °C |   9.6 °C |   3.6 mm |  34.3 km/h
+=====================================================================================
+
+--- Weather Data for Valaneio ---
+High Temp: 12.1°C | Low Temp: 8.4°C | Rain Today: 15.0 mm | Max Wind Gust: 45.1 km/h
+
+--- Summary ---
+Station            | High:     Temp | Low:     Temp | Rain:    Today | Gust:       Max
+--------------------------------------------------------------------------------
+Gouvia             | High:  14.3 °C | Low:   9.8 °C | Rain:   8.4 mm | Gust: 30.6 km/h
+Paxoi              | High:  13.7 °C | Low:  10.1 °C | Rain:   8.6 mm | Gust: 40.2 km/h
+Petaleia           | High:   8.2 °C | Low:   5.8 °C | Rain:   0.6 mm | Gust: 19.3 km/h
+AcharaviEAA        | High:  14.6 °C | Low:   8.7 °C | Rain:     7 mm | Gust: 33.8 km/h
+MavroudiThesprot   | High:  12.5 °C | Low:   7.9 °C | Rain:   3.6 mm | Gust: 30.6 km/h
+
+
+--- Weather Data for Aerodromio ---
+Max Temp: 15 °C | Min Temp: 10 °C | Rain Today: N.C.  mm | Max Gust: 35 km/h
+
+=================================================================
+
+LOCATION             | MAX      | MIN      | RAIN    
+-----------------------------------------------------------------
+AgiosPanteleimonas   | 13.5     | 8.6      | 10.4    
+
+Agni                 | 13.3     | 9.2      | 0.0     
+
+Nissaki              | 14.3     | 9.4      | 16.8    
+
+Ypsos                | 13.4     | 9.5      | 8.8     
+
+Kothoniki            | 15.3     | 9.5      | 0.0     
+
+Perama               | 14.3     | 10.1     | 4.8     
+
+Gastouri             | 13.2     | 9.9      | 5.2     
+
+Milia Kynopiaston    | 12.4     | 12.0     | 3.8     
+
+Agioi Deka           | 14.1     | 9.4      | 4.4     
+
+Petriti              | 14.6     | 10.3     | 7.2     
+
+GraikoxoriThesprot   | 14.2     | 10.2     | 4.0     
+
+FiliatesThesprot     | 11.5     | 6.9      | 0.8     
+=================================================================
+
+[2026-02-09 10:58:44.283950] NETWORK ERROR: Could not reach https://ionianweather.gr/stations/stas.html. Details: HTTPSConnectionPool(host='ionianweather.gr', port=443): Max retries exceeded with url: /stations/stas.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='ionianweather.gr', port=443) at 0x7fc90b0187d0>, 'Connection to ionianweather.gr timed out. (connect timeout=15)'))
