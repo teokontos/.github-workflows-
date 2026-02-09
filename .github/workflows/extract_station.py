@@ -34,7 +34,8 @@ OUTPUT_DIR = BASE_DIR / "data" / "extract"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 current_date = datetime.now().strftime("%Y-%m-%d")
-file_name = f"results_{current_date}.txt"
+run_tag = datetime.now().strftime("%H%M")
+file_name = f"results_{current_date}_{run_tag}.txt"
 full_path = OUTPUT_DIR / file_name
 
 with open(full_path, "a", encoding="utf-8") as f:
