@@ -12,9 +12,13 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timezone
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
+
+print("UTC time:", datetime.now(timezone.utc))
+print("Local time:", datetime.now())
+print("System TZ name:", time.tzname)
 
 service = Service(ChromeDriverManager().install())
 options = webdriver.ChromeOptions()
