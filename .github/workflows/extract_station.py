@@ -430,7 +430,7 @@ try:
         f.write(f"\n{'LOCATION':<20} | {'MAX':<8} | {'MIN':<8} | {'RAIN':<8}\n")
         f.write("-" * 65)
         for row in all_station_data:
-            f.write(f"\n{row['Name']:<20} | {row['Max Temp']:<8} | {row['Min Temp']:<8} | {row['Daily Rain']:<8}\n")
+            f.write(f"\n{row['Name']:<20} | {row['Max Temp']:<8} | {row['Min Temp']:<8} | {row['Daily Rain']:<8}")
         f.write("="*65)
         f.write("\n")
 
