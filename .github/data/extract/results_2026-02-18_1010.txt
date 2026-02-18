@@ -1,0 +1,72 @@
+
+Weather data extracted at 10:10:29
+Scraping stations, please wait...
+=====================================================================================
+STATION NAME         | ID         | HIGH    | LOW     | RAIN    | GUST   -------------------------------------------------------------------------------------
+Arillas              | IKERKIRA2  |  13.4 °C |  11.4 °C |   0.0 mm |  16.7 km/h
+Avliotes             | IAVLIO1    |           Incomplete Data          
+Acharavi             | IPERIT4    |               Offline              
+Gialos Karousadon    | IKAROU2    |  12.2 °C |  10.8 °C |  28.4 mm |  64.5 km/h
+Loutses1             | ILOUTS1    |  11.8 °C |   7.7 °C |   0.0 mm |  36.7 km/h
+Loutses Anapaftiria  | ILOUTS2    |  12.9 °C |   7.2 °C |   0.0 mm |  23.8 km/h
+Kassiopi             | IKASSI2    |  11.4 °C |  10.4 °C |   0.0 mm |  33.2 km/h
+Sinies Porta         | ISINIE3    |   8.7 °C |   5.9 °C |   0.0 mm |  51.8 km/h
+Old Sinies           | INISSA6    |   8.0 °C |   7.0 °C |   0.0 mm |  27.4 km/h
+Ropa                 | IYANNA5    |  13.3 °C |  10.3 °C |  14.0 mm |  68.4 km/h
+Laiki Agora          | ICORFU22   |  14.2 °C |  10.6 °C |   0.0 mm |  58.3 km/h
+Kentro Kofineta      | ICORFU20   |  13.1 °C |  11.1 °C |   0.0 mm |  46.7 km/h
+1st Epal             | ICORFU9    |  12.9 °C |  11.5 °C |   0.0 mm |  56.3 km/h
+Garitsa              | ICORFU24   |  14.1 °C |  10.7 °C |   0.0 mm |   0.0 km/h
+Kobitsi              | IKOBIT2    |  13.6 °C |  10.5 °C |   0.0 mm |  53.3 km/h
+Perama               | IGASTO3    |  12.9 °C |   9.9 °C |   9.9 mm |  36.2 km/h
+Kothoniki            | IKALAF4    |  15.6 °C |   8.9 °C |   0.3 mm |  30.3 km/h
+Agios Georgios Argyr | ICORFU8    |               Offline              
+Chlomos              | ICHLOM1    |  12.4 °C |   8.2 °C |   0.5 mm |  58.3 km/h
+Perivoli             | IARGYR6    |  14.0 °C |   9.7 °C |   0.0 mm |  31.4 km/h
+Sagiada              | ISAYAD1    |  14.7 °C |   7.5 °C |   0.0 mm |  30.6 km/h
+Igoumenitsa          | IIGOUM1    |  13.9 °C |   8.3 °C |   0.0 mm |  28.6 km/h
+Filothei Thesprot    | IU0389U02  |  12.6 °C |   8.8 °C |   0.0 mm |  30.6 km/h
+=====================================================================================
+
+--- Weather Data for Valaneio ---
+High Temp: 11.4°C | Low Temp: 8.8°C | Rain Today: 0.0 mm | Max Wind Gust: 51.5 km/h
+
+--- Summary ---
+Station            | High:     Temp | Low:     Temp | Rain:    Today | Gust:       Max
+--------------------------------------------------------------------------------
+Gouvia             | High:  13.4 °C | Low:  11.3 °C | Rain:     0 mm | Gust: 53.1 km/h
+Paxoi              | High:  13.4 °C | Low:  10.4 °C | Rain:     0 mm | Gust: 67.6 km/h
+Petaleia           | High:   5.7 °C | Low:   5.1 °C | Rain:   2.8 mm | Gust: 51.5 km/h
+AcharaviEAA        | High:    13 °C | Low:  10.8 °C | Rain:     0 mm | Gust: 54.7 km/h
+MavroudiThesprot   | High:  12.4 °C | Low:   3.5 °C | Rain:     0 mm | Gust: 27.4 km/h
+
+
+--- Weather Data for Aerodromio ---
+Max Temp: 14 °C | Min Temp: 10.8 °C | Rain Today: N.C.  mm | Max Gust: 60 km/h
+
+=================================================================
+
+LOCATION             | MAX      | MIN      | RAIN    
+-----------------------------------------------------------------
+AgiosPanteleimonas   | 11.9     | 8.6      | 0.0     
+Agni                 | 15.6     | 9.1      | 0.0     
+Nissaki              | 13.8     | 10.0     | 0.0     
+Ypsos                | 13.3     | 11.9     | 0.0     
+Kothoniki            | 15.2     | 9.0      | 0.0     
+Perama               | 12.9     | 9.9      | 0.0     
+Gastouri             | 12.5     | 8.9      | 0.0     
+Milia Kynopiaston    | 13.8     | 8.1      | 0.2     
+Agioi Deka           | 13.4     | 7.9      | 0.0     
+Petriti              | 13.9     | 11.0     | 0.0     
+GraikoxoriThesprot   | 12.6     | 7.2      | 0.0     
+FiliatesThesprot     | 11.5     | 6.9      | 0.8     =================================================================
+
+
+--- Extract Success: 10:13:50 ---
+       station  code  Max Temp  Min Temp  Rain    Gust
+         Paxos PAX-1    11.512     8.650   0.0     NaN
+      Auliotes CRF-1    11.352    10.032   0.0 61.7364
+      Temploni CRF-2       NaN       NaN   NaN     NaN
+Korission Lake CRF-3       NaN       NaN   NaN     NaN
+    Corfu Town CRF-4    13.572    11.176   0.0 37.5228
+==================================================
