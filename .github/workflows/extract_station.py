@@ -48,9 +48,9 @@ print(f"File saved to: {full_path}")
 STATION_MAP = {
     "IKERKIRA2": "Arillas", "IAVLIO1": "Avliotes", "IPERIT4": "Acharavi",
     "IKAROU2": "Gialos Karousadon", "ILOUTS1": "Loutses1",
-    "ILOUTS2": "Loutses Anapaftiria", "IKASSI2": "Kassiopi", "ISINIE3": "Sinies Porta",
+    "ILOUTS2": "Loutses Anapaftiria", "IKASSI2": "Kassiopi", "ISPART11": "Spartylas", "ISINIE3": "Sinies Porta",
     "INISSA6": "Old Sinies", "IYANNA5": "Ropa", "ICORFU22": "Laiki Agora",
-    "ICORFU20": "Kentro Kofineta", "ICORFU9": "1st Epal", "ICORFU24": "Garitsa",
+    "ICORFU20": "Kentro Kofineta", "ICORFU9": "1st Epal", "ICORFU24": "Garitsa", "ICORFU28": "Koulines",
     "IKOBIT2": "Kobitsi", "IGASTO3": "Perama", "IKALAF4": "Kothoniki", "ICORFU8": "Agios Georgios Argyr",
     "ICHLOM1": "Chlomos", "IARGYR6": "Perivoli", "ISAYAD1": "Sagiada",
     "IIGOUM1": "Igoumenitsa", "IU0389U02": "Filothei Thesprot"
