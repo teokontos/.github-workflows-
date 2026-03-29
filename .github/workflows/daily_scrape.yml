@@ -2,7 +2,7 @@ name: Daily Weather Scraper
 
 on:
   schedule:
-    - cron: "45 19 * * *"  # 21:45 Greece (UTC+2)
+    - cron: "45 18 * * *"  # 21:45 Greece (UTC+3)
     
   workflow_dispatch:
 
