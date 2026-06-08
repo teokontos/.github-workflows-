@@ -49,7 +49,7 @@ STATION_MAP = {
     "IKERKIRA2": "Arillas", "IAVLIO1": "Avliotes", "IPERIT4": "Acharavi",
     "IKAROU2": "Gialos Karousadon", "ILOUTS1": "Loutses1",
     "ILOUTS2": "Loutses Anapaftiria", "IKASSI2": "Kassiopi", "ISPART11": "Spartylas", "ISINIE3": "Sinies Porta",
-    "INISSA6": "Old Sinies", "IYANNA5": "Ropa", "ICORFU22": "Laiki Agora",
+    "INISSA6": "Old Sinies", "IYANNA5": "Ropa", "ICORFU29": "Potamos", "ICORFU22": "Laiki Agora",
     "ICORFU20": "Kentro Kofineta", "ICORFU9": "1st Epal", "ICORFU24": "Garitsa", "ICORFU28": "Koulines",
     "IKOBIT2": "Kobitsi", "IGASTO3": "Perama", "IKALAF4": "Kothoniki", "ICORFU8": "Agios Georgios Argyr",
     "ICHLOM1": "Chlomos", "IARGYR6": "Perivoli", "ISAYAD1": "Sagiada",
@@ -347,15 +347,18 @@ except Exception as e:
 # Dictionary mapping Station ID to Friendly Name
 STATION_NAMES = {
     "d7463552240": "AgiosPanteleimonas",
+    "d4862620509": "Kassiopi - Weathercloud",
     "d0774314531": "Agni",
     "d7746504386": "Nissaki",
     "d7550631437": "Ypsos",
-    "d6245085291": "Kothoniki",
-    "d1871029033": "Perama",
+    "d6992125691": "Potamos - Weathercloud",
+    "d6245085291": "Kothoniki - Weathercloud",
+    "d1871029033": "Perama - Weathercloud",
     "d1594180981": "Gastouri",
     "d2603547554": "Milia Kynopiaston",
     "d5203070705": "Agioi Deka",
     "d4591805891": "Petriti", 
+    "d1066173634": "Vlachopoulatika Paxos",
     "d3332581754": "GraikoxoriThesprot", 
     "d0228718460": "FiliatesThesprot"
 }
