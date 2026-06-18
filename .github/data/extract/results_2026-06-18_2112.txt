@@ -1,0 +1,70 @@
+
+Weather data extracted at 21:12:52
+Scraping stations, please wait...
+=====================================================================================
+STATION NAME         | ID         | HIGH    | LOW     | RAIN    | GUST   -------------------------------------------------------------------------------------
+Arillas              | IKERKIRA2  |               Offline              
+Avliotes             | IAVLIO1    |           Incomplete Data          
+Acharavi             | IPERIT4    |               Offline              
+Gialos Karousadon    | IKAROU2    |           Incomplete Data          
+Loutses1             | ILOUTS1    |           Incomplete Data          
+Loutses Anapaftiria  | ILOUTS2    |           Incomplete Data          
+Kassiopi             | IKASSI2    |           Incomplete Data          
+Spartylas            | ISPART11   |           Incomplete Data          
+Sinies Porta         | ISINIE3    |               Offline              
+Old Sinies           | INISSA6    |           Incomplete Data          
+Ropa                 | IYANNA5    |           Incomplete Data          
+Potamos              | ICORFU29   |           Incomplete Data          
+Laiki Agora          | ICORFU22   |           Incomplete Data          
+Kentro Kofineta      | ICORFU20   |           Incomplete Data          
+1st Epal             | ICORFU9    |           Incomplete Data          
+Garitsa              | ICORFU24   |           Incomplete Data          
+Koulines             | ICORFU28   |           Incomplete Data          
+Kobitsi              | IKOBIT2    |           Incomplete Data          
+Perama               | IGASTO3    |           Incomplete Data          
+Kothoniki            | IKALAF4    |           Incomplete Data          
+Agios Georgios Argyr | ICORFU8    |               Offline              
+Chlomos              | ICHLOM1    |           Incomplete Data          
+Perivoli             | IARGYR6    |           Incomplete Data          
+Sagiada              | ISAYAD1    |           Incomplete Data          
+Igoumenitsa          | IIGOUM1    |           Incomplete Data          
+Filothei Thesprot    | IU0389U02  |           Incomplete Data          
+=====================================================================================
+
+--- Weather Data for Valaneio ---
+High Temp: 24.2°C | Low Temp: 24.0°C | Rain Today: 0.0 mm | Max Wind Gust: 1.6 km/h
+
+--- Summary ---
+Station            | High:     Temp | Low:     Temp | Rain:    Today | Gust:       Max
+--------------------------------------------------------------------------------
+Gouvia             | High:      N/A | Low:      N/A | Rain:      N/A | Gust:       N/A
+Paxoi              | High:  33.3 °C | Low:  21.1 °C | Rain:     0 mm | Gust: 30.6 km/h
+Petaleia           | High:  29.9 °C | Low:  16.6 °C | Rain:     0 mm | Gust: 20.9 km/h
+AcharaviEAA        | High:  22.5 °C | Low:  22.3 °C | Rain:     0 mm | Gust: 12.9 km/h
+MavroudiThesprot   | High:      N/A | Low:      N/A | Rain:      N/A | Gust:       N/A
+
+
+--- Weather Data for Aerodromio ---
+Max Temp: 33 °C | Min Temp: 20.2 °C | Rain Today: N.C.  mm | Max Gust: 28 km/h
+
+=================================================================
+
+LOCATION             | MAX      | MIN      | RAIN    
+-----------------------------------------------------------------
+AgiosPanteleimonas   | 23.6     | 23.6     | 0.0     
+Kassiopi - Weathercloud | 25.1     | 25.1     | 0.0     
+Agni                 | 26.4     | 26.2     | 0.0     
+Nissaki              | 27.3     | 27.3     | 0.0     
+Ypsos                | 26.2     | 26.1     | 0.0     
+Potamos - Weathercloud | 21.4     | 21.4     | 0.0     
+Kothoniki - Weathercloud | 25.0     | 25.0     | 0.0     
+Perama - Weathercloud | 25.3     | 25.3     | 0.0     
+Gastouri             | 20.0     | 19.7     | 0.0     
+Milia Kynopiaston    | 20.6     | 20.6     | 0.0     
+Agioi Deka           | 25.1     | 25.1     | 0.0     
+Petriti              | 26.7     | 26.7     | 0.0     
+Vlachopoulatika Paxos | 25.5     | 25.5     | 0.0     
+GraikoxoriThesprot   | 27.6     | 26.0     | 0.0     
+FiliatesThesprot     | N/A      | N/A      | N/A     =================================================================
+
+[2026-06-18 21:18:08.990343] NETWORK ERROR: Could not reach https://ionianweather.gr/stations/stas.html. Details: HTTPSConnectionPool(host='ionianweather.gr', port=443): Max retries exceeded with url: /stations/stas.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='ionianweather.gr', port=443) at 0x7fd6f1a45b50>, 'Connection to ionianweather.gr timed out. (connect timeout=15)'))
