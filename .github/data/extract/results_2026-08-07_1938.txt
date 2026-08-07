@@ -1,0 +1,78 @@
+
+Weather data extracted at 19:38:17
+Scraping stations, please wait...
+=====================================================================================
+STATION NAME         | ID         | HIGH    | LOW     | RAIN    | GUST   -------------------------------------------------------------------------------------
+Arillas              | IKERKIRA2  |               Offline              
+Avliotes             | IAVLIO1    |           Incomplete Data          
+Acharavi             | IPERIT4    |               Offline              
+Gialos Karousadon    | IKAROU2    |  32.3 °C |  23.8 °C |   0.0 mm |  13.8 km/h
+Loutses1             | ILOUTS1    |               Offline              
+Loutses Anapaftiria  | ILOUTS2    |  36.1 °C |  23.3 °C |   0.0 mm |  20.1 km/h
+Kassiopi             | IKASSI2    |  36.6 °C |  23.0 °C |   0.0 mm |  20.1 km/h
+Spartylas            | ISPART11   |               Offline              
+Sinies Porta         | ISINIE3    |               Offline              
+Old Sinies           | INISSA6    |  34.6 °C |  26.4 °C |   0.0 mm |  19.8 km/h
+Ropa                 | IYANNA5    |           Incomplete Data          
+Potamos              | ICORFU29   |  35.1 °C |  20.4 °C |   0.0 mm |  11.9 km/h
+Laiki Agora          | ICORFU22   |  37.7 °C |  24.7 °C |   0.0 mm |  13.4 km/h
+Kentro Kofineta      | ICORFU20   |  31.5 °C |  25.8 °C |   0.0 mm |  21.9 km/h
+1st Epal             | ICORFU9    |  34.3 °C |  24.5 °C |   0.0 mm |  17.7 km/h
+Garitsa              | ICORFU24   |  32.2 °C |  23.5 °C |   0.0 mm |   0.0 km/h
+Koulines             | ICORFU28   |  38.4 °C |  23.2 °C |   0.0 mm |  20.4 km/h
+Kobitsi              | IKOBIT2    |               Offline              
+Perama               | IGASTO3    |  37.0 °C |  24.0 °C |   0.0 mm |  17.5 km/h
+Kothoniki            | IKALAF4    |  41.8 °C |  25.2 °C |   0.0 mm |  17.2 km/h
+Agios Georgios Argyr | ICORFU8    |               Offline              
+Chlomos              | ICHLOM1    |  35.7 °C |  25.5 °C |   0.0 mm |  26.2 km/h
+Perivoli             | IARGYR6    |  36.6 °C |  21.8 °C |   0.0 mm |  14.8 km/h
+Sagiada              | ISAYAD1    |  37.2 °C |  24.7 °C |   0.0 mm |  15.8 km/h
+Igoumenitsa          | IIGOUM1    |  37.4 °C |  25.9 °C |   0.0 mm |  15.8 km/h
+Filothei Thesprot    | IU0389U02  |  35.1 °C |  28.1 °C |   0.0 mm |  24.5 km/h
+=====================================================================================
+
+--- Weather Data for Valaneio ---
+High Temp: 35.6°C | Low Temp: 25.8°C | Rain Today: 0.0 mm | Max Wind Gust: 19.3 km/h
+
+--- Summary ---
+Station            | High:     Temp | Low:     Temp | Rain:    Today | Gust:       Max
+--------------------------------------------------------------------------------
+Gouvia             | High:  33.9 °C | Low:  23.2 °C | Rain:     0 mm | Gust: 19.3 km/h
+Paxoi              | High:  35.6 °C | Low:  26.1 °C | Rain:     0 mm | Gust: 22.5 km/h
+Petaleia           | High:  34.3 °C | Low:  20.7 °C | Rain:     0 mm | Gust: 17.7 km/h
+AcharaviEAA        | High:  32.1 °C | Low:    22 °C | Rain:     0 mm | Gust: 20.9 km/h
+MavroudiThesprot   | High:  34.7 °C | Low:  23.3 °C | Rain:     0 mm | Gust: 24.1 km/h
+
+
+--- Weather Data for Aerodromio ---
+Max Temp: 36.2 °C | Min Temp: 23.4 °C | Rain Today: 0 mm | Max Gust: 22 km/h
+
+=================================================================
+
+LOCATION             | MAX      | MIN      | RAIN    
+-----------------------------------------------------------------
+AgiosPanteleimonas   | 34.7     | 25.9     | 0.0     
+Kassiopi - Weathercloud | 36.6     | 24.1     | 0.0     
+Agni                 | 36.7     | 25.0     | 0.0     
+Nissaki              | 34.9     | 25.8     | 0.0     
+Ypsos                | 33.8     | 29.6     | 0.0     
+Potamos - Weathercloud | 35.1     | 20.4     | 0.0     
+Kothoniki - Weathercloud | 41.9     | 25.3     | 0.0     
+Perama - Weathercloud | 37.0     | 24.0     | 0.0     
+Gastouri             | 39.0     | 20.4     | 0.0     
+Milia Kynopiaston    | 39.3     | 19.9     | 0.0     
+Agioi Deka           | 39.2     | 25.5     | 0.0     
+Petriti              | 36.8     | 24.9     | 0.0     
+Vlachopoulatika Paxos | 37.1     | 26.2     | 0.0     
+GraikoxoriThesprot   | 34.4     | 25.9     | 0.0     
+FiliatesThesprot     | N/A      | N/A      | N/A     =================================================================
+
+
+--- Extract Success: 19:43:19 ---
+       station  code  Max Temp  Min Temp  Rain    Gust
+         Paxos PAX-1    32.499    26.151   0.0     NaN
+      Auliotes CRF-1       NaN       NaN   NaN     NaN
+      Temploni CRF-2       NaN       NaN   NaN     NaN
+Korission Lake CRF-3    32.686    27.787   0.0 13.7988
+    Corfu Town CRF-4 -1000.000       NaN   0.0  3.8988
+==================================================
