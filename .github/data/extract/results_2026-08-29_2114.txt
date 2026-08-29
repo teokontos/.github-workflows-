@@ -1,0 +1,78 @@
+
+Weather data extracted at 21:14:48
+Scraping stations, please wait...
+=====================================================================================
+STATION NAME         | ID         | HIGH    | LOW     | RAIN    | GUST   -------------------------------------------------------------------------------------
+Arillas              | IKERKIRA2  |               Offline              
+Avliotes             | IAVLIO1    |           Incomplete Data          
+Acharavi             | IPERIT4    |               Offline              
+Gialos Karousadon    | IKAROU2    |           Incomplete Data          
+Loutses1             | ILOUTS1    |               Offline              
+Loutses Anapaftiria  | ILOUTS2    |           Incomplete Data          
+Kassiopi             | IKASSI2    |           Incomplete Data          
+Spartylas            | ISPART11   |               Offline              
+Sinies Porta         | ISINIE3    |               Offline              
+Old Sinies           | INISSA6    |           Incomplete Data          
+Ropa                 | IYANNA5    |           Incomplete Data          
+Potamos              | ICORFU29   |           Incomplete Data          
+Laiki Agora          | ICORFU22   |           Incomplete Data          
+Kentro Kofineta      | ICORFU20   |               Offline              
+1st Epal             | ICORFU9    |           Incomplete Data          
+Garitsa              | ICORFU24   |           Incomplete Data          
+Koulines             | ICORFU28   |           Incomplete Data          
+Kobitsi              | IKOBIT2    |               Offline              
+Perama               | IGASTO3    |           Incomplete Data          
+Kothoniki            | IKALAF4    |           Incomplete Data          
+Agios Georgios Argyr | ICORFU8    |               Offline              
+Chlomos              | ICHLOM1    |           Incomplete Data          
+Perivoli             | IARGYR6    |           Incomplete Data          
+Sagiada              | ISAYAD1    |           Incomplete Data          
+Igoumenitsa          | IIGOUM1    |           Incomplete Data          
+Filothei Thesprot    | IU0389U02  |           Incomplete Data          
+=====================================================================================
+
+--- Weather Data for Valaneio ---
+High Temp: 27.2°C | Low Temp: 27.1°C | Rain Today: 0.0 mm | Max Wind Gust: 1.6 km/h
+
+--- Summary ---
+Station            | High:     Temp | Low:     Temp | Rain:    Today | Gust:       Max
+--------------------------------------------------------------------------------
+Gouvia             | High:  27.9 °C | Low:  27.5 °C | Rain:     0 mm | Gust:  6.4 km/h
+Paxoi              | High:      N/A | Low:      N/A | Rain:      N/A | Gust:       N/A
+Petaleia           | High:      N/A | Low:      N/A | Rain:      N/A | Gust:       N/A
+AcharaviEAA        | High:  24.9 °C | Low:  24.8 °C | Rain:     0 mm | Gust:  6.4 km/h
+MavroudiThesprot   | High:      N/A | Low:      N/A | Rain:      N/A | Gust:       N/A
+
+
+--- Weather Data for Aerodromio ---
+Max Temp: 34 °C | Min Temp: 26.4 °C | Rain Today: 0 mm | Max Gust: 41 km/h
+
+=================================================================
+
+LOCATION             | MAX      | MIN      | RAIN    
+-----------------------------------------------------------------
+AgiosPanteleimonas   | 28.0     | 27.9     | 0.0     
+Kassiopi - Weathercloud | 27.0     | 27.0     | 0.0     
+Agni                 | 28.2     | 28.2     | 0.0     
+Nissaki              | 27.4     | 27.2     | 0.0     
+Ypsos                | 26.8     | 26.7     | 0.0     
+Potamos - Weathercloud | 26.6     | 26.4     | 0.0     
+Kothoniki - Weathercloud | 28.7     | 28.7     | 0.0     
+Perama - Weathercloud | 26.5     | 26.3     | 0.0     
+Gastouri             | 26.4     | 26.1     | 0.0     
+Milia Kynopiaston    | 20.1     | 20.1     | 0.0     
+Agioi Deka           | 26.5     | 26.5     | 0.0     
+Petriti              | 27.5     | 27.4     | 0.0     
+Vlachopoulatika Paxos | 27.1     | 27.1     | 0.0     
+GraikoxoriThesprot   | 27.3     | 27.3     | 0.0     
+FiliatesThesprot     | N/A      | N/A      | N/A     =================================================================
+
+
+--- Extract Success: 21:19:28 ---
+       station  code  Max Temp  Min Temp  Rain    Gust
+         Paxos PAX-1    30.420    25.945   0.0     NaN
+      Auliotes CRF-1 -1000.000       NaN   0.0 13.7196
+      Temploni CRF-2       NaN       NaN   NaN     NaN
+Korission Lake CRF-3    31.427    27.520   0.0  0.0000
+    Corfu Town CRF-4 -1000.000       NaN   0.0  6.8724
+==================================================
