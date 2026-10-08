@@ -26,7 +26,7 @@ jobs:
 
       - name: Run weather scraper
         run: |
-          python .github/workflows/extract_station.py
+          python .github/workflows/extract2.py
 
       - name: Commit results
         run: |
