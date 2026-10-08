@@ -62,7 +62,7 @@ WUNDERGROUND_STATIONS = {
     "ILOUTS2": "Loutses Anapaftiria", "IKASSI2": "Kassiopi", "ISPART11": "Spartylas",
     "ISINIE3": "Sinies Porta", "INISSA6": "Old Sinies", "IYANNA5": "Ropa",
     "ICORFU29": "Potamos", "ICORFU22": "Laiki Agora", "ICORFU20": "Kentro Kofineta",
-    "ICORFU9": "1st Epal", "ICORFU24": "Garitsa", "ICORFU28": "Koulines",
+    "ICORFU9": "1st Epal", "ICORFU33": "Garitsa", "ICORFU28": "Koulines",
     "IKOBIT2": "Kobitsi", "IGASTO3": "Perama", "IKALAF4": "Kothoniki",
     "ISTAVR23": "Stavros", "ICORFU8": "Agios Georgios Argyr", "ICHLOM1": "Chlomos",
     "IARGYR6": "Perivoli", "ISAYAD1": "Sagiada", "IIGOUM1": "Igoumenitsa",
