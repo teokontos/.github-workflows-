@@ -570,7 +570,7 @@ def main() -> int:
  
     txt_path, csv_path, text = write_reports(readings, started)
     print(text)
-    log.info("Saved %s and %s", txt_path, csv_path.name)
+    log.info("Saved %s and %s", txt_path)
  
     # Non-zero exit when nothing worked, so cron/CI notices.
     return 0 if any(r.status == "OK" for r in readings) else 1
