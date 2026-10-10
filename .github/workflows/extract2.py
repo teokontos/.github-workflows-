@@ -568,7 +568,7 @@ def main() -> int:
         log.error("Browser unavailable: %s", _err(exc))
         readings.append(Reading("Selenium", "(browser)", status="Error", error=_err(exc)))
  
-    txt_path, csv_path, text = write_reports(readings, started)
+    txt_path, text = write_reports(readings, started)
     print(text)
     log.info("Saved %s", txt_path)
  
