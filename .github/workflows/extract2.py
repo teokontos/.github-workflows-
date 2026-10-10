@@ -13,7 +13,6 @@ Chrome/Chromium.  On slim Docker images / Windows also: pip install tzdata
 """
 from __future__ import annotations
  
-import csv
 import logging
 import re
 import sys
@@ -513,18 +512,13 @@ def render_text(readings: list[Reading], started: datetime) -> str:
 def write_reports(readings: list[Reading], started: datetime, out_dir: Path = OUTPUT_DIR):
     out_dir.mkdir(parents=True, exist_ok=True)
     stem = f"results_{started:%Y-%m-%d}_{started:%H%M}"
-    txt_path, csv_path = out_dir / f"{stem}.txt", out_dir / f"{stem}.csv"
+    txt_path = out_dir / f"{stem}.txt"
  
     text = render_text(readings, started)
     txt_path.write_text(text, encoding="utf-8")
  
     stamp = started.isoformat(timespec="seconds")
-    with csv_path.open("w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=["extracted_at", *(fl.name for fl in fields(Reading))])
-        writer.writeheader()
-        for r in readings:
-            writer.writerow({"extracted_at": stamp, **asdict(r)})
-    return txt_path, csv_path, text
+    return txt_path, text
  
  
 # ──────────────────────────────────────────────────────────────────────────────
