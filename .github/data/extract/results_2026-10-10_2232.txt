@@ -1,0 +1,74 @@
+Weather data extracted at 2026-10-10 22:32:50 (EEST)
+
+=================================================================================================================
+SOURCE         | STATION                | ID           |      HIGH |       LOW |      RAIN |        GUST | STATUS
+-----------------------------------------------------------------------------------------------------------------
+Wunderground   | Arillas                | IKERKIRA2    |   24.9 °C |   16.2 °C |    6.1 mm |    8.7 km/h | OK
+Wunderground   | Avliotes               | IAVLIO1      |       N/A |       N/A |       N/A |         N/A | Incomplete
+Wunderground   | Acharavi               | IPERIT4      |       N/A |       N/A |       N/A |         N/A | Offline
+Wunderground   | Gialos Karousadon      | IKAROU2      |   26.4 °C |   17.1 °C |    6.1 mm |   22.5 km/h | OK
+Wunderground   | Loutses1               | ILOUTS1      |   27.4 °C |   16.1 °C |   43.2 mm |   21.9 km/h | OK
+Wunderground   | Loutses Anapaftiria    | ILOUTS2      |   25.7 °C |   15.2 °C |   44.2 mm |   14.8 km/h | OK
+Wunderground   | Kassiopi               | IKASSI2      |   24.8 °C |   15.3 °C |   10.7 mm |   11.1 km/h | OK
+Wunderground   | Spartylas              | ISPART11     |   26.6 °C |   16.8 °C |    3.0 mm |    8.7 km/h | OK
+Wunderground   | Sinies Porta           | ISINIE3      |       N/A |       N/A |       N/A |         N/A | Offline
+Wunderground   | Old Sinies             | INISSA6      |   23.1 °C |   16.6 °C |    6.3 mm |   23.7 km/h | OK
+Wunderground   | Ropa                   | IYANNA5      |   21.1 °C |   12.4 °C |    4.3 mm |   19.0 km/h | OK
+Wunderground   | Potamos                | ICORFU29     |   23.9 °C |   13.2 °C |    4.3 mm |    8.7 km/h | OK
+Wunderground   | Laiki Agora            | ICORFU22     |   25.3 °C |   16.1 °C |    0.0 mm |   13.4 km/h | OK
+Wunderground   | Kentro Kofineta        | ICORFU20     |       N/A |       N/A |       N/A |         N/A | Incomplete
+Wunderground   | 1st Epal               | ICORFU9      |   23.2 °C |   16.3 °C |    0.3 mm |   14.5 km/h | OK
+Wunderground   | Garitsa                | ICORFU33     |   24.1 °C |   15.6 °C |    0.3 mm |    8.2 km/h | OK
+Wunderground   | Koulines               | ICORFU28     |   25.4 °C |   15.8 °C |    0.0 mm |   17.2 km/h | OK
+Wunderground   | Kobitsi                | IKOBIT2      |       N/A |       N/A |       N/A |         N/A | Offline
+Wunderground   | Perama                 | IGASTO3      |   24.2 °C |   16.5 °C |   15.5 mm |   10.3 km/h | OK
+Wunderground   | Kothoniki              | IKALAF4      |   29.6 °C |   20.2 °C |    1.0 mm |   14.0 km/h | OK
+Wunderground   | Stavros                | ISTAVR23     |   22.2 °C |   17.2 °C |    0.0 mm |   25.6 km/h | OK
+Wunderground   | Agios Georgios Argyr   | ICORFU8      |       N/A |       N/A |       N/A |         N/A | Offline
+Wunderground   | Chlomos                | ICHLOM1      |   24.5 °C |   17.2 °C |    0.5 mm |   11.9 km/h | OK
+Wunderground   | Perivoli               | IARGYR6      |   25.8 °C |   15.1 °C |    0.5 mm |    9.3 km/h | OK
+Wunderground   | Sagiada                | ISAYAD1      |   27.9 °C |   15.7 °C |    0.0 mm |   11.4 km/h | OK
+Wunderground   | Igoumenitsa            | IIGOUM1      |       N/A |       N/A |       N/A |         N/A | Offline
+Wunderground   | Filothei Thesprot      | IU0389U02    |   24.7 °C |   18.4 °C |    0.0 mm |   24.5 km/h | OK
+Meteoclub      | Valaneio               |              |   24.7 °C |   17.9 °C |    7.2 mm |   32.2 km/h | OK
+Meteociel      | Aerodromio             | 16641        |   23.4 °C |   16.0 °C |    0.0 mm |   19.0 km/h | OK
+IonianWeather  | Paxos                  | PAX-1        |   23.3 °C |   20.1 °C |    0.1 mm |   19.4 km/h | OK
+IonianWeather  | Auliotes               | CRF-1        |   23.4 °C |   18.6 °C |    3.8 mm |   18.7 km/h | OK
+IonianWeather  | Temploni               | CRF-2        |       N/A |       N/A |       N/A |         N/A | No data
+IonianWeather  | Korission Lake         | CRF-3        |   24.5 °C |   20.6 °C |    0.6 mm |    0.0 km/h | OK
+IonianWeather  | Corfu Town             | CRF-4        | -1000.0 °C |       N/A |    0.1 mm |    0.6 km/h | Suspect
+Penteli        | Gouvia                 | kerkyra      |   22.9 °C |   15.4 °C |    8.4 mm |   19.3 km/h | OK
+Penteli        | Paxoi                  | paxoi        |   25.3 °C |   18.2 °C |    0.0 mm |   17.7 km/h | OK
+Penteli        | Petaleia               | petalia      |   20.1 °C |   12.5 °C |    4.2 mm |   17.7 km/h | OK
+Penteli        | AcharaviEAA            | acharavi     |   23.9 °C |   15.0 °C |    8.4 mm |   25.7 km/h | OK
+Penteli        | MavroudiThesprot       | igoumenitsa  |   23.4 °C |   14.7 °C |    0.0 mm |   22.5 km/h | OK
+Weathercloud   | AgiosPanteleimonas     | d7463552240  |   25.9 °C |   18.3 °C |   10.4 mm |         N/A | OK
+Weathercloud   | Kassiopi - WC          | d4862620509  |   24.1 °C |   17.2 °C |    0.0 mm |         N/A | OK
+Weathercloud   | Agni                   | d0774314531  |   23.6 °C |   17.2 °C |    0.0 mm |         N/A | OK
+Weathercloud   | Nissaki                | d7746504386  |   23.3 °C |   18.6 °C |    7.2 mm |         N/A | OK
+Weathercloud   | Ypsos                  | d7550631437  |   23.6 °C |   15.7 °C |    1.2 mm |         N/A | OK
+Weathercloud   | Potamos - Weathercloud | d6992125691  |   23.7 °C |   13.2 °C |    4.3 mm |         N/A | OK
+Weathercloud   | Kothoniki - WC         | d6245085291  |   29.1 °C |   20.6 °C |    0.0 mm |         N/A | OK
+Weathercloud   | Perama - Weathercloud  | d1871029033  |   24.2 °C |   16.5 °C |    0.4 mm |         N/A | OK
+Weathercloud   | Gastouri               | d1594180981  |   23.3 °C |   14.3 °C |    0.0 mm |         N/A | OK
+Weathercloud   | Milia Kynopiaston      | d2603547554  |   15.1 °C |   13.6 °C |    0.0 mm |         N/A | OK
+Weathercloud   | Agioi Deka             | d5203070705  |   26.7 °C |   17.4 °C |    0.0 mm |         N/A | OK
+Weathercloud   | Petriti                | d4591805891  |   24.1 °C |   17.4 °C |    0.0 mm |         N/A | OK
+Weathercloud   | Vlachopoulatika Paxos  | d1066173634  |   26.2 °C |   18.2 °C |    0.2 mm |         N/A | OK
+Weathercloud   | GraikoxoriThesprot     | d3332581754  |   24.3 °C |   17.1 °C |    0.0 mm |         N/A | OK
+Weathercloud   | FiliatesThesprot       | d0228718460  |       N/A |       N/A |       N/A |         N/A | Offline
+=================================================================================================================
+
+Issues:
+  Wunderground / Avliotes: Incomplete (only 3 numeric values found)
+  Wunderground / Acharavi: Offline (summary tables not on page)
+  Wunderground / Sinies Porta: Offline (summary tables not on page)
+  Wunderground / Kentro Kofineta: Incomplete (only 3 numeric values found)
+  Wunderground / Kobitsi: Offline (summary tables not on page)
+  Wunderground / Agios Georgios Argyr: Offline (summary tables not on page)
+  Wunderground / Igoumenitsa: Offline (summary tables not on page)
+  IonianWeather / Temploni: No data (no values found on page)
+  IonianWeather / Corfu Town: Suspect (implausible: high=-1000.0; missing: low)
+  Weathercloud / FiliatesThesprot: Offline (gauges did not load)
+
+44/54 stations OK
