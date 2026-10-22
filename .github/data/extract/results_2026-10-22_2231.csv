@@ -1,0 +1,55 @@
+extracted_at,source,station,station_id,status,high,low,rain,gust,error
+2026-10-22T22:31:41+03:00,Wunderground,Arillas,IKERKIRA2,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Avliotes,IAVLIO1,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Acharavi,IPERIT4,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Gialos Karousadon,IKAROU2,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Loutses1,ILOUTS1,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Loutses Anapaftiria,ILOUTS2,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Kassiopi,IKASSI2,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Spartylas,ISPART11,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Sinies Porta,ISINIE3,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Old Sinies,INISSA6,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Ropa,IYANNA5,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Potamos,ICORFU29,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Laiki Agora,ICORFU22,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Kentro Kofineta,ICORFU20,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,1st Epal,ICORFU9,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Garitsa,ICORFU24,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Koulines,ICORFU28,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Kobitsi,IKOBIT2,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Perama,IGASTO3,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Kothoniki,IKALAF4,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Stavros,ISTAVR23,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Agios Georgios Argyr,ICORFU8,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Chlomos,ICHLOM1,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Perivoli,IARGYR6,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Sagiada,ISAYAD1,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Igoumenitsa,IIGOUM1,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Wunderground,Filothei Thesprot,IU0389U02,Offline,,,,,summary tables not on page
+2026-10-22T22:31:41+03:00,Meteoclub,Valaneio,,OK,22.8,17.9,40.8,38.6,
+2026-10-22T22:31:41+03:00,Meteociel,Aerodromio,16641,OK,25.0,19.0,0.0,41.0,
+2026-10-22T22:31:41+03:00,IonianWeather,Paxos,PAX-1,OK,22.595,18.429,3.400000000000001,0.0,
+2026-10-22T22:31:41+03:00,IonianWeather,Auliotes,CRF-1,OK,21.645,19.508,3.4000000000000012,7.228800000000001,
+2026-10-22T22:31:41+03:00,IonianWeather,Temploni,CRF-2,No data,,,,,no values found on page
+2026-10-22T22:31:41+03:00,IonianWeather,Korission Lake,CRF-3,OK,23.713,18.463,0.7999999999999999,0.0,
+2026-10-22T22:31:41+03:00,IonianWeather,Corfu Town,CRF-4,Suspect,-1000.0,,16.9,3.3408,implausible: high=-1000.0; missing: low
+2026-10-22T22:31:41+03:00,Penteli,Gouvia,kerkyra,OK,24.7,15.8,19.0,43.5,
+2026-10-22T22:31:41+03:00,Penteli,Paxoi,paxoi,OK,22.2,21.0,0.0,32.2,
+2026-10-22T22:31:41+03:00,Penteli,Petaleia,petalia,OK,20.1,12.3,55.4,48.3,
+2026-10-22T22:31:41+03:00,Penteli,AcharaviEAA,acharavi,OK,23.1,15.8,47.8,53.1,
+2026-10-22T22:31:41+03:00,Penteli,MavroudiThesprot,igoumenitsa,OK,23.2,14.2,42.0,45.1,
+2026-10-22T22:31:41+03:00,Weathercloud,AgiosPanteleimonas,d7463552240,OK,22.3,17.3,61.2,,
+2026-10-22T22:31:41+03:00,Weathercloud,Kassiopi - Weathercloud,d4862620509,OK,24.1,17.2,0.0,,
+2026-10-22T22:31:41+03:00,Weathercloud,Agni,d0774314531,OK,28.4,18.4,0.0,,
+2026-10-22T22:31:41+03:00,Weathercloud,Nissaki,d7746504386,OK,24.7,19.1,11.6,,
+2026-10-22T22:31:41+03:00,Weathercloud,Ypsos,d7550631437,OK,20.7,11.1,0.0,,
+2026-10-22T22:31:41+03:00,Weathercloud,Potamos - Weathercloud,d6992125691,OK,24.6,13.5,13.7,,
+2026-10-22T22:31:41+03:00,Weathercloud,Kothoniki - Weathercloud,d6245085291,OK,31.2,20.5,0.0,,
+2026-10-22T22:31:41+03:00,Weathercloud,Perama - Weathercloud,d1871029033,OK,25.7,17.5,21.6,,
+2026-10-22T22:31:41+03:00,Weathercloud,Gastouri,d1594180981,OK,25.5,12.8,21.6,,
+2026-10-22T22:31:41+03:00,Weathercloud,Milia Kynopiaston,d2603547554,OK,15.1,13.6,0.0,,
+2026-10-22T22:31:41+03:00,Weathercloud,Agioi Deka,d5203070705,OK,26.6,17.3,0.4,,
+2026-10-22T22:31:41+03:00,Weathercloud,Petriti,d4591805891,OK,24.6,19.5,4.0,,
+2026-10-22T22:31:41+03:00,Weathercloud,Vlachopoulatika Paxos,d1066173634,OK,25.6,19.0,5.6,,
+2026-10-22T22:31:41+03:00,Weathercloud,GraikoxoriThesprot,d3332581754,OK,23.4,17.5,22.8,,
+2026-10-22T22:31:41+03:00,Weathercloud,FiliatesThesprot,d0228718460,Offline,,,,,gauges did not load
