@@ -1,0 +1,55 @@
+extracted_at,source,station,station_id,status,high,low,rain,gust,error
+2026-11-01T21:54:14+02:00,Wunderground,Arillas,IKERKIRA2,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Avliotes,IAVLIO1,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Acharavi,IPERIT4,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Gialos Karousadon,IKAROU2,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Loutses1,ILOUTS1,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Loutses Anapaftiria,ILOUTS2,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Kassiopi,IKASSI2,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Spartylas,ISPART11,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Sinies Porta,ISINIE3,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Old Sinies,INISSA6,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Ropa,IYANNA5,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Potamos,ICORFU29,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Laiki Agora,ICORFU22,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Kentro Kofineta,ICORFU20,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,1st Epal,ICORFU9,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Garitsa,ICORFU24,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Koulines,ICORFU28,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Kobitsi,IKOBIT2,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Perama,IGASTO3,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Kothoniki,IKALAF4,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Stavros,ISTAVR23,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Agios Georgios Argyr,ICORFU8,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Chlomos,ICHLOM1,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Perivoli,IARGYR6,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Sagiada,ISAYAD1,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Igoumenitsa,IIGOUM1,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Wunderground,Filothei Thesprot,IU0389U02,Offline,,,,,summary tables not on page
+2026-11-01T21:54:14+02:00,Meteoclub,Valaneio,,OK,18.5,12.9,14.6,29.0,
+2026-11-01T21:54:14+02:00,Meteociel,(entire source),,Error,,,,,"RetryError: HTTPSConnectionPool(host='www.meteociel.fr', port=443): Max retries exceeded with url: /temps-reel/obs_villes.php?code2=16641 (Caused by ResponseError('too many 429 error responses'))"
+2026-11-01T21:54:14+02:00,IonianWeather,Paxos,PAX-1,OK,18.44,14.453,2.2000000000000006,0.0,
+2026-11-01T21:54:14+02:00,IonianWeather,Auliotes,CRF-1,OK,18.997,12.87,0.9999999999999999,29.476800000000004,
+2026-11-01T21:54:14+02:00,IonianWeather,Temploni,CRF-2,No data,,,,,no values found on page
+2026-11-01T21:54:14+02:00,IonianWeather,Korission Lake,CRF-3,OK,19.676,15.747,0.7,15.2892,
+2026-11-01T21:54:14+02:00,IonianWeather,Corfu Town,CRF-4,Suspect,-1000.0,,7.299999999999993,12.258,implausible: high=-1000.0; missing: low
+2026-11-01T21:54:14+02:00,Penteli,Gouvia,kerkyra,OK,19.2,11.4,6.0,24.1,
+2026-11-01T21:54:14+02:00,Penteli,Paxoi,paxoi,OK,19.4,13.9,3.2,20.9,
+2026-11-01T21:54:14+02:00,Penteli,Petaleia,petalia,OK,13.5,8.8,6.2,22.5,
+2026-11-01T21:54:14+02:00,Penteli,AcharaviEAA,acharavi,OK,18.7,11.1,8.4,24.1,
+2026-11-01T21:54:14+02:00,Penteli,MavroudiThesprot,igoumenitsa,OK,18.5,12.2,7.2,19.3,
+2026-11-01T21:54:14+02:00,Weathercloud,AgiosPanteleimonas,d7463552240,OK,19.2,13.2,8.0,,
+2026-11-01T21:54:14+02:00,Weathercloud,Kassiopi - Weathercloud,d4862620509,OK,24.1,17.2,0.0,,
+2026-11-01T21:54:14+02:00,Weathercloud,Agni,d0774314531,OK,21.1,13.3,0.0,,
+2026-11-01T21:54:14+02:00,Weathercloud,Nissaki,d7746504386,OK,19.5,14.1,8.0,,
+2026-11-01T21:54:14+02:00,Weathercloud,Ypsos,d7550631437,OK,19.1,11.9,13.6,,
+2026-11-01T21:54:14+02:00,Weathercloud,Potamos - Weathercloud,d6992125691,OK,20.3,10.0,9.1,,
+2026-11-01T21:54:14+02:00,Weathercloud,Kothoniki - Weathercloud,d6245085291,OK,24.1,17.1,0.1,,
+2026-11-01T21:54:14+02:00,Weathercloud,Perama - Weathercloud,d1871029033,OK,20.2,14.7,18.4,,
+2026-11-01T21:54:14+02:00,Weathercloud,Gastouri,d1594180981,OK,19.0,12.7,22.0,,
+2026-11-01T21:54:14+02:00,Weathercloud,Milia Kynopiaston,d2603547554,OK,15.1,13.6,0.2,,
+2026-11-01T21:54:14+02:00,Weathercloud,Agioi Deka,d5203070705,OK,19.7,13.5,0.0,,
+2026-11-01T21:54:14+02:00,Weathercloud,Petriti,d4591805891,OK,19.8,12.2,1.2,,
+2026-11-01T21:54:14+02:00,Weathercloud,Vlachopoulatika Paxos,d1066173634,OK,19.7,13.6,2.9,,
+2026-11-01T21:54:14+02:00,Weathercloud,GraikoxoriThesprot,d3332581754,OK,19.2,13.4,8.8,,
+2026-11-01T21:54:14+02:00,Weathercloud,FiliatesThesprot,d0228718460,Offline,,,,,gauges did not load
